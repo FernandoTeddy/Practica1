@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sdfalkdjfalskdflaf
+=======
+Hola mundo
+adios mundo inmundo
+>>>>>>> c236f85abb38282a1952324a0c8b46d1976ddbdc
